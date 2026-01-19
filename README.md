@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Blog social media**
 
-- 🌱 I’m currently learning **Next.js, Express.js, Java**
+- 🌱 I’m currently learning **Java, Nest.js**
 
 - 👯 I’m looking to collaborate on **web apps, open source projects, etc.**
 
