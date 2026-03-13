@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **web apps, open source projects, etc.**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-bustamantes-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio]([https://portfolio-bustamantes-projects.vercel.app/](https://thiagos-portfolio.vercel.app/))
 
-- 📫 How to reach me **mosquerabustamante88@gmail.com**
+- 📫 How to reach me **bmosquera0510@gmail.com**
 
 - ⚡ Fun fact **I believe music and code are the perfect combo!**
 
